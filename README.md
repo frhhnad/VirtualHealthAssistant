@@ -1,4 +1,5 @@
-##B Powerpuff Girls
+##By Powerpuff Girls
+
 WeCare: Virtual Healthcare Assistant
 The COVID-19 pandemic has had a significant impact on the way outpatient treatment is provided in medical facilities. In order to reduce the possibility of spreading the virus to patients or healthcare personnel in their practise, physicians are postponing preventive and elective appointments, such yearly physicals. Additionally, a lot of patients are avoiding appointments because they don't want to expose themselves by leaving their houses. The changing municipal and state travel restrictions also have an impact on the behaviour of physicians and patients.
 
