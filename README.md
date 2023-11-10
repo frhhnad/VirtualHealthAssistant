@@ -1,16 +1,5 @@
-# Rubix-22-37-Terminal Stack
-## WeCare - Virtual Health Assistant
-The COVID-19 pandemic has dramatically changed how outpatient
-care is delivered in health care practices. To decrease the risk of
-transmitting the virus to either patients or health care workers
-within their practice, doctors are deferring elective and preventive
-visits, such as annual physicals. Many patients are also avoiding
-visits because they do not want to leave their homes and risk
-exposure. Also influencing both doctors and patient behavior are
-the evolving local and state recommendations restricting travel.
-
-Build an application that helps people to monitor their health
-parameters and vitals in order to live a healthy life.
+WeCare: Virtual Healthcare Assistant
+The COVID-19 pandemic has had a significant impact on the way outpatient treatment is provided in medical facilities. In order to reduce the possibility of spreading the virus to patients or healthcare personnel in their practise, physicians are postponing preventive and elective appointments, such yearly physicals. Additionally, a lot of patients are avoiding appointments because they don't want to expose themselves by leaving their houses. The changing municipal and state travel restrictions also have an impact on the behaviour of physicians and patients.
 
 Features desired in the application:
 1. Video consultation with doctor
@@ -24,7 +13,6 @@ The solution can also provide general medical assistance which will be useful in
 Collaborated with a team of **4** using technologies like **HTML**, **CSS**, **JavaScript**, **Express js**, **MySQL**, **Passport** for 
 authentication, and peer js / Socket / **WebRTC** for real-time communication.
 
-Demo: [WeCare](https://www.linkedin.com/posts/muskan-gupta-9a794614a_hackathon-tsec-csi-activity-6896137591809212416-JbsD) - [Virtual Health Assistant](https://youtu.be/wvGR8ooKbWo)
 
 ### *Home Page*
 ![image](https://user-images.githubusercontent.com/83824990/152693017-4fc715a6-99c4-4da7-ad76-35b624d9cd0b.png)
